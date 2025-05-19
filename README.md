@@ -18,6 +18,7 @@ Tudo foi escrito com foco em clareza e contexto técnico — pra que qualquer pe
 | Case | Descrição | Link |
 |------|-----------|------|
 | Automação de Linkedin | Automação completa de texto prontos para postagem no linkedin. | [auto-likedin/case.md](./auto-likedin/case.md) |
+| Biblioteca de Objetos gerais | Biblioteca de interfaces NPM para uso de múltiplos projetos que utilizem JavaScript/Typescript. | [scheunemann-interfaces/case.md](./scheunemann-interfaces/case.md) |
 ---
 
 ## 📫 Contato
